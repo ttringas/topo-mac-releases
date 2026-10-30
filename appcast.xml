@@ -4,5 +4,13 @@
     <title>Topo</title>
     <description>Updates for Topo for Mac.</description>
     <language>en</language>
+    <item>
+      <title>Version 1.0.0</title>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Fri, 30 Oct 2026 15:20:19 -0400</pubDate>
+      <enclosure url="https://github.com/ttringas/topo-mac-releases/releases/download/v1.0.0/Topo-1.0.0.zip" type="application/octet-stream" sparkle:edSignature="Atqk0FbXTwZG263ZjAyX9bnEIDa8lwm9KAbthf/+KVJS1PTXNkcyf6gsbvjk1+Gz8t9vVVsWiEzdvsmwWU04AQ==" length="2529351" />
+    </item>
   </channel>
 </rss>
